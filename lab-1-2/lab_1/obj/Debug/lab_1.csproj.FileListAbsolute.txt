@@ -1,0 +1,12 @@
+E:\University\7 sem\ACG\lab-1\lab_1\bin\Debug\lab_1.exe.config
+E:\University\7 sem\ACG\lab-1\lab_1\bin\Debug\lab_1.exe
+E:\University\7 sem\ACG\lab-1\lab_1\bin\Debug\lab_1.pdb
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.MainForm.resources
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.exe
+E:\University\7 sem\ACG\lab-1\lab_1\obj\Debug\lab_1.pdb
+E:\University\7 sem\ACG\lab-1\lab_1\bin\Debug\System.ValueTuple.dll
+E:\University\7 sem\ACG\lab-1\lab_1\bin\Debug\System.ValueTuple.xml

@@ -1,0 +1,239 @@
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\Viewer3D.exe.config
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\Viewer3D.pdb
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\System.Drawing.Common.dll
+D:\learn\7sem\AKG\Viewer3D_1\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\MainWindow.g.cs
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\App.g.cs
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\MainWindow.baml
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.g.resources
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.csproj.CopyComplete
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\Viewer3D_1\obj\Debug\Viewer3D.pdb
+D:\learn\7sem\AKG\3DViewer\bin\Debug\Viewer3D.exe.config
+D:\learn\7sem\AKG\3DViewer\bin\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\3DViewer\bin\Debug\Viewer3D.pdb
+D:\learn\7sem\AKG\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\learn\7sem\AKG\3DViewer\bin\Debug\System.Drawing.Common.dll
+D:\learn\7sem\AKG\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\learn\7sem\AKG\3DViewer\obj\Debug\MainWindow.g.cs
+D:\learn\7sem\AKG\3DViewer\obj\Debug\App.g.cs
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\learn\7sem\AKG\3DViewer\obj\Debug\MainWindow.baml
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.g.resources
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\3DViewer\obj\Debug\Viewer3D.pdb
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe.config
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\Viewer3D.pdb
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\App.g.cs
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\MainWindow.baml
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.g.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_3\3DViewer\obj\Debug\Viewer3D.pdb
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe.config
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\Viewer3D.pdb
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\System.Drawing.Common.dll
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\MainWindow.g.cs
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\App.g.cs
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\MainWindow.baml
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.g.resources
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.exe
+D:\learn\7sem\AKG\New folder\3DViewer_3\3DViewer\obj\Debug\Viewer3D.pdb
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe.config
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.pdb
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\App.g.cs
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\MainWindow.baml
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.g.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.pdb
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe.config
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.pdb
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\System.Drawing.Common.dll
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\MainWindow.g.cs
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\App.g.cs
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\MainWindow.baml
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.g.resources
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.exe
+C:\Users\laptop\Downloads\7_sem\7_sem\akg\лабы\3DViewer_4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.pdb
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe.config
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.exe
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\System.Drawing.Common.dll
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\MainWindow.g.cs
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\App.g.cs
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\MainWindow.baml
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.g.resources
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.exe
+D:\7sem\акг\4\3DViewer_3\3DViewer\obj\Debug\Viewer3D.pdb
+D:\7sem\акг\4\3DViewer_3\3DViewer\bin\Debug\Viewer3D.pdb
+D:\7sem\акг\workingat\3DViewer\bin\Debug\Viewer3D.exe.config
+D:\7sem\акг\workingat\3DViewer\bin\Debug\Viewer3D.exe
+D:\7sem\акг\workingat\3DViewer\bin\Debug\Viewer3D.pdb
+D:\7sem\акг\workingat\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Buffers.dll
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Drawing.Common.dll
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Memory.dll
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Numerics.Vectors.dll
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\7sem\акг\workingat\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Buffers.xml
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Memory.xml
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Numerics.Vectors.xml
+D:\7sem\акг\workingat\3DViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\7sem\акг\workingat\3DViewer\obj\Debug\MainWindow.g.cs
+D:\7sem\акг\workingat\3DViewer\obj\Debug\App.g.cs
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\7sem\акг\workingat\3DViewer\obj\Debug\MainWindow.baml
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.g.resources
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.exe
+D:\7sem\акг\workingat\3DViewer\obj\Debug\Viewer3D.pdb
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csprojAssemblyReference.cache
+D:\7sem\AKG\3DViewer\obj\Debug\MainWindow.g.cs
+D:\7sem\AKG\3DViewer\obj\Debug\App.g.cs
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D_MarkupCompile.cache
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D_MarkupCompile.lref
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.exe
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.pdb
+D:\7sem\AKG\3DViewer\bin\Debug\Viewer3D.exe.config
+D:\7sem\AKG\3DViewer\bin\Debug\Viewer3D.exe
+D:\7sem\AKG\3DViewer\bin\Debug\Viewer3D.pdb
+D:\7sem\AKG\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.winmd
+D:\7sem\AKG\3DViewer\bin\Debug\System.Buffers.dll
+D:\7sem\AKG\3DViewer\bin\Debug\System.Drawing.Common.dll
+D:\7sem\AKG\3DViewer\bin\Debug\System.Memory.dll
+D:\7sem\AKG\3DViewer\bin\Debug\System.Numerics.Vectors.dll
+D:\7sem\AKG\3DViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\7sem\AKG\3DViewer\bin\Debug\Microsoft.Graphics.Canvas.xml
+D:\7sem\AKG\3DViewer\bin\Debug\System.Buffers.xml
+D:\7sem\AKG\3DViewer\bin\Debug\System.Memory.xml
+D:\7sem\AKG\3DViewer\bin\Debug\System.Numerics.Vectors.xml
+D:\7sem\AKG\3DViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\7sem\AKG\3DViewer\obj\Debug\MainWindow.baml
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.g.resources
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.Properties.Resources.resources
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+D:\7sem\AKG\3DViewer\obj\Debug\Viewer3D.csproj.CopyComplete
+E:\лр\obj\Debug\Viewer3D.exe
+E:\лр\obj\Debug\Viewer3D.pdb
+E:\лр\bin\Debug\Viewer3D.exe.config
+E:\лр\bin\Debug\Viewer3D.exe
+E:\лр\bin\Debug\Viewer3D.pdb
+E:\лр\bin\Debug\Microsoft.Graphics.Canvas.winmd
+E:\лр\bin\Debug\System.Buffers.dll
+E:\лр\bin\Debug\System.Drawing.Common.dll
+E:\лр\bin\Debug\System.Memory.dll
+E:\лр\bin\Debug\System.Numerics.Vectors.dll
+E:\лр\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\лр\bin\Debug\Microsoft.Graphics.Canvas.xml
+E:\лр\bin\Debug\System.Buffers.xml
+E:\лр\bin\Debug\System.Memory.xml
+E:\лр\bin\Debug\System.Numerics.Vectors.xml
+E:\лр\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\лр\obj\Debug\Viewer3D.csproj.AssemblyReference.cache
+E:\лр\obj\Debug\MainWindow.g.cs
+E:\лр\obj\Debug\App.g.cs
+E:\лр\obj\Debug\Viewer3D_MarkupCompile.cache
+E:\лр\obj\Debug\Viewer3D_MarkupCompile.lref
+E:\лр\obj\Debug\MainWindow.baml
+E:\лр\obj\Debug\Viewer3D.g.resources
+E:\лр\obj\Debug\Viewer3D.Properties.Resources.resources
+E:\лр\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+E:\лр\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+E:\University\7 sem\ACG\lab-5\bin\Debug\Viewer3D.exe.config
+E:\University\7 sem\ACG\lab-5\bin\Debug\Viewer3D.exe
+E:\University\7 sem\ACG\lab-5\bin\Debug\Viewer3D.pdb
+E:\University\7 sem\ACG\lab-5\bin\Debug\Microsoft.Graphics.Canvas.winmd
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Buffers.dll
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Drawing.Common.dll
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Memory.dll
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Numerics.Vectors.dll
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\University\7 sem\ACG\lab-5\bin\Debug\Microsoft.Graphics.Canvas.xml
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Buffers.xml
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Memory.xml
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Numerics.Vectors.xml
+E:\University\7 sem\ACG\lab-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.csproj.AssemblyReference.cache
+E:\University\7 sem\ACG\lab-5\obj\Debug\MainWindow.g.cs
+E:\University\7 sem\ACG\lab-5\obj\Debug\App.g.cs
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D_MarkupCompile.cache
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D_MarkupCompile.lref
+E:\University\7 sem\ACG\lab-5\obj\Debug\MainWindow.baml
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.g.resources
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.Properties.Resources.resources
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.csproj.GenerateResource.cache
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.csproj.CoreCompileInputs.cache
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.exe
+E:\University\7 sem\ACG\lab-5\obj\Debug\Viewer3D.pdb

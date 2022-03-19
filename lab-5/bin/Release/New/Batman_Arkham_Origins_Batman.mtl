@@ -1,0 +1,36 @@
+newmtl Model001_Material001
+map_Kd Batman_Cape_D.png
+map_bump Batman_Cape_n.png
+
+newmtl Model001_Material002
+map_Kd Batman_Cape_D.png
+map_bump Batman_Cape_n.png
+
+newmtl Model001_Material003
+map_Kd Batman_Cape_D.png
+map_bump Batman_Cape_n.png
+
+newmtl Model001_Material004
+map_Kd Batman_Teeth_D.png
+map_bump Batman_Teeth_n.png
+
+newmtl Model001_Material005
+map_Kd Batman_Face_D.png
+map_bump Batman_Face_n.png
+
+newmtl Model001_Material006
+map_Kd eye_D.png
+map_bump eye_n.png
+
+newmtl Model001_Material007
+map_Kd Batman_Mask_D.png
+map_bump Batman_Mask_n.png
+
+newmtl Model001_Material008
+map_Kd Batman_Legs_D.png
+map_bump Batman_Legs_n.png
+
+newmtl Model001_Material009
+map_Kd Batman_Torso_D.png
+map_bump Batman_Torso_n.png
+

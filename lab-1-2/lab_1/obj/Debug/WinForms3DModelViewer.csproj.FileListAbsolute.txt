@@ -1,0 +1,59 @@
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csprojAssemblyReference.cache
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+D:\Study\University\7 term\AKG\3DModelViewer\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csprojAssemblyReference.cache
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.CoreCompileInputs.cache
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+D:\Doc\АКГ\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+C:\Users\Егор\Downloads\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csprojAssemblyReference.cache
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.CoreCompileInputs.cache
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+C:\Study\ACG\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.AssemblyReference.cache
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+C:\Users\ajolo\Desktop\L1\3DModelViewer\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.CoreCompileInputs.cache
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe.config
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.exe
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\bin\Debug\WinForms3DModelViewer.pdb
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.AssemblyReference.cache
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.MainForm.resources
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.Properties.Resources.resources
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.GenerateResource.cache
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.csproj.CoreCompileInputs.cache
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.exe
+E:\University\7 sem\ACG\lab-1\WinForms3DModelViewer\obj\Debug\WinForms3DModelViewer.pdb

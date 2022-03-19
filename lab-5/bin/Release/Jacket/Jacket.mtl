@@ -1,0 +1,62 @@
+# Blender MTL File: 'Jacket.blend'
+# Material Count: 5
+
+newmtl Mena_Camila_Clothing_Sculpt
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\Mena_Camila_Clothing_Sculpt_normal.png
+map_Kd textures\Mena_Camila_Clothing_Sculpt_baseColor.jpeg
+
+newmtl belt
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\belt_normal.png
+map_Kd textures\belt_baseColor.jpeg
+
+newmtl innerzipper.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\innerzipper.001_normal.png
+map_Kd textures\innerzipper.001_baseColor.jpeg
+
+newmtl jacket
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\jacket_normal.png
+map_Kd textures\jacket_baseColor.jpeg
+
+newmtl jacketzipper.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\jacketzipper.001_normal.png
+map_Kd textures\jacketzipper.001_baseColor.jpeg

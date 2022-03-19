@@ -1,0 +1,46 @@
+﻿<Window x:Class="Viewer3D.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3DModelViewer"
+        mc:Ignorable="d"
+        KeyDown="Window_KeyDown"
+        ContentRendered="InitRender"
+        Title="MainWindow" Height="658" Width="1103">
+    <Grid Name="mainGrid" Background="#808080" Margin="0,0,0,0">
+        <Label Visibility="Hidden" Content="FOV" HorizontalAlignment="Left" Margin="33,25,0,0" VerticalAlignment="Top" AutomationProperties.Name="cameraPosition"/>
+        <Label Visibility="Hidden" Content="ZFar" HorizontalAlignment="Left" Margin="85,25,0,0" VerticalAlignment="Top" AutomationProperties.Name="cameraPosition"/>
+        <Label Visibility="Hidden" Content="ZNear" HorizontalAlignment="Left" Margin="137,25,0,0" VerticalAlignment="Top" AutomationProperties.Name="cameraPosition"/>
+        <TextBox Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="33,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47" Name="cameraFOV" Text="45"/>
+        <TextBox Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="85,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47" Name="cameraZFar" Text="100"/>
+        <TextBox Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="137,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47" Name="cameraZNear" RenderTransformOrigin="0.851,1.174" Text="0.2"/>
+        <Grid Visibility="Hidden" Name="loadGrid" Background="#808080" Margin="10,0,0,10" HorizontalAlignment="Left" Width="250" Height="70" VerticalAlignment="Bottom">
+            <ComboBox Name="ComboBox" Background="AntiqueWhite" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="230" SelectionChanged="ComboBox_Selected">
+                <ComboBoxItem>
+                    <TextBlock>Jacket</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock>Girl</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock>Obivan</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock>Gun</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock>TV</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock>New</TextBlock>
+                </ComboBoxItem>
+            </ComboBox>
+            
+        </Grid>
+
+        <Grid Name="imageGrid" Background="#808080" Margin="10,10,10,10" SizeChanged="ImageGrid_SizeChanged">
+            <Image Name="mainImage" Margin="0,0,0,0"/>
+        </Grid>
+    </Grid>
+</Window>
